@@ -1,0 +1,32 @@
+body{background-color:rgba(0,0,0,0.8)}
+body, html, .ow_page_container .ow_page{color:#ffffff}
+.ow_page_wrap{background-image:url(http://localhost/ow_userfiles/themes/theme_image_5.jpg)}
+h1{color:#FFD119}
+.ow_header_pic{background-image:url(http://localhost/ow_userfiles/themes/theme_image_4.png)}
+a, .ow_content a{color:#FFD119}
+.ow_logo_wrap a{color:rgba(0,0,0,0.8)}
+.ow_main_menu li a{color:#FFD119}
+.ow_footer{background:rgba(0,0,0,0.8)}
+.ow_txt_value{color:#FFD119}
+@font-face {
+    font-family: Colorado;
+    src: url(images/Ubuntu-B-webfont.eot);
+    src: url(images/Ubuntu-B-webfont.eot?#iefix) format('embedded-opentype'),
+         url(images/Ubuntu-B-webfont.woff) format('woff'),
+         url(images/Ubuntu-B-webfont.ttf) format('truetype'),
+         url(images/Ubuntu-B-webfont.svg#UbuntuBold) format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Colorado';
+    src: url(images/Ubuntu-R-webfont.eot);
+    src: url(images/Ubuntu-R-webfont.eot?#iefix) format('embedded-opentype'),
+         url(images/Ubuntu-R-webfont.woff) format('woff'),
+         url(images/Ubuntu-R-webfont.ttf) format('truetype'),
+         url(images/Ubuntu-R-webfont.svg#UbuntuRegular) format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
